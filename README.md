@@ -3,6 +3,8 @@
 
 Esse projeto foi desenvolvido durantes estudos de JavaScript com intuito de solidificar meus conhecimentos em relação ao elemento DOM do HTML e criar animações utilizando o mesmo.
 
+Link para teste do projeto: https://bbml-dev.github.io/project-animals/
+
 ## Conhecimentos necessários
 
 - HTML5
